@@ -7,6 +7,8 @@ gem "autoprefixer-rails"
 
 gem "simple_form"
 
+gem "cloudinary"
+
 gem "font-awesome-sass", "~> 6.1"
 
 gem "dotenv-rails", groups: [:development, :test]
